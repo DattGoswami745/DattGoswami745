@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Datt Goswami</h1>
 <h3 align="center">Learning • Building • Growing with Code 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Web+Developer;AI%2FML+Enthusiast;JAVA Developer&center=true&width=500&height=50">
-</p>
-
 ---
 
 ## 👩‍💻 About Me
