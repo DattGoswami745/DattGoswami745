@@ -32,7 +32,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,bootstrap,c,cpp,css,figma,firebase,git,html,java,js,mysql,nodejs,opencv,pandas,php,postman,python,scikit_learn,sqlite,ajax" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cpp,css,figma,firebase,git,html,java,js,mysql,nodejs,opencv,pandas,php,postman,python,sqlite" />
 </p>
 
 ---
